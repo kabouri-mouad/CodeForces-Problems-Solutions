@@ -1,6 +1,6 @@
 #  CodeForces-Problems-Solutions
 <div align="center">
-<a href="https://www.linkedin.com/in/mouad-kabouri-043741221/">
+<a href="[https://www.linkedin.com/in/mouad-kabouri-043741221/](https://codeforces.com/profile/KABOURI_MOUAD)">
   <img src ="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=yellow&color=red"/>
 </a>
 </div>
