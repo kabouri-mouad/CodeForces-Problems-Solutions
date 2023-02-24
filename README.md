@@ -1,4 +1,9 @@
-# CodeForces-Problems-Solutions
+#  CodeForces-Problems-Solutions
+<div align="center">
+<a href="https://www.linkedin.com/in/mouad-kabouri-043741221/">
+  <img src ="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=yellow&color=red"/>
+</a>
+</div>
 
 ## This repository contains my suggested solution structure for Codeforces problems, which I have written using the C++ language.
 
